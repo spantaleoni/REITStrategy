@@ -16,7 +16,7 @@ import telegram_send
 
 from PortfolioOptimize import *
 
-TelegramSend = False
+TelegramSend = True
 
 G_REPORTTITLE = '** DUAL MOMENTUM in REITS **'
 
